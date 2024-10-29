@@ -37,7 +37,6 @@ questions =  [
     {"id": 32, "question": "A monarch should be obeyed even if he goes against God.", "effects": {"auth": 1}},
     {"id": 33, "question": "The French Revolution was a disaster to mankind.", "effects": {"auth": 1}},
     {"id": 34, "question": "Dissolve the Parliament!", "effects": {"auth": 1}},
-//    {"id": 36, "question": "Just because autocracy appears to exist less now, it doesn't mean it isn't a better system.", "effects": {"auth": 1}},
     {"id": 35, "question": "The reason democratic governments don't declare war on each other is because they are all puppets of the same globalist entity.", "effects": {"auth": 1}},
     {"id": 36, "question": "Equalizing the opinions of everyone on who should rule is destructive to the nation.", "effects": {"auth": 1}},
     {"id": 37, "question": "The peasants shouldn't get to choose their leaders.", "effects": {"auth": 1}},
@@ -47,8 +46,6 @@ questions =  [
     {"id": 41, "question": "Monarchies of today are a joke, a shiny hat alone doesn't make one a monarch.", "effects": {"auth": 1}},
     {"id": 42, "question": "A paper stating what the Monarch or government can do is not only foolish but naive.", "effects": {"auth": 1}},
     {"id": 43, "question": "The Nobility should not exist as it divides the power instead of giving it to the monarch.", "effects": {"auth": 1}},
-//    {"id": 46, "question": "There are those who follow and those who lead.", "effects": {"auth": 1}},
-    // Constitutionalism lib
     {"id": 44, "question": "The Monarch should only be a ceremonial figure for the Country to rally behind.", "effects": {"auth": -1}},
     {"id": 45, "question": "The Crown should protect the citizens from their own government.", "effects": {"auth": -1}},
     {"id": 46, "question": "One man having too much power would cause that power to be abused easily.", "effects": {"auth": -1}},
@@ -65,7 +62,6 @@ questions =  [
     {"id": 58, "question": "Absolute power corrupts absolutely.", "effects": {"auth": -1}},
     // Merit prog
     {"id": 59, "question": "Merit decides the crown, not blood.", "effects": {"prog": 1}},
-//    {"id": 62, "question": "Wealth is the sign of nobility.", "effects": {"prog": 1}},
     {"id": 60, "question": "Even a commoner should be able to become a monarch.", "effects": {"prog": 1}},
     {"id": 61, "question": "Aristocracy should not be locked to certain families.", "effects": {"prog": 1}},
     {"id": 62, "question": "Technocratic Monarchy would be the best possible system.", "effects": {"prog": 1}},
