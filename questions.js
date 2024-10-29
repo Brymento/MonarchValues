@@ -26,7 +26,6 @@ questions =  [
     {"id": 22, "question": "For a monarchy to work, one person needs to be wise; for a democracy to work, 51% of population needs to be wise; which is more likely?", "effects": {"right": -1}},
     {"id": 23, "question": "'No republic should ever be allowed to exist'.", "effects": {"right": -1}},
     {"id": 24, "question": "'Peace-loving' Republics have caused equally if not more suffering than all monarchies ever did.", "effects": {"right": -1}},
-
     {"id": 25, "question": "The greatest slave of a Kingdom is the one who bears the crown.", "effects": {"right": -1}},
     {"id": 26, "question": "I would support a Monarchy for my country.", "effects": {"right": -1}},
     {"id": 27, "question": "The fruit of the Republics has grown bitter due to the blood of tyrants, despots, and innocents alike it has spilled.", "effects": {"right": -1}},
