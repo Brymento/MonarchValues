@@ -13,7 +13,7 @@ questions =  [
     {"id": 10, "question": "Even if in one case a Monarch is better than a leader elected by the people, I would still prefer the latter.", "effects": {"right": 1}},
     {"id": 11, "question": "A Republic is the only way to stay with the times, fulfill the needs of the nation, and not get stuck in the past.", "effects": {"right": 1}},
     {"id": 12, "question": "For man should be free and not shackled by the will of someone else.", "effects": {"right": 1}},
-    {"id": 13, "question": "The popularity of the Republican system isn't undeserved, for it gives a voice to teh voiceless.", "effects": {"right": 1}},
+    {"id": 13, "question": "The popularity of the Republican system isn't undeserved, for it gives a voice to the voiceless.", "effects": {"right": 1}},
     {"id": 14, "question": "Monarchy leads to complacency.", "effects": {"right": 1}},
     // Monarchism left
     {"id": 15, "question": "The Monarch is the Father of the Nation.", "effects": {"right": -1}},
@@ -82,7 +82,7 @@ questions =  [
     {"id": 76, "question": "Nobility is an essential class in a successful society.", "effects": {"prog": -1}},
     {"id": 77, "question": "The power passing from the father to the child is an inherently human system.", "effects": {"prog": -1}},
     {"id": 78, "question": "Nepotism is good, as it strengthens the familial structure of society.", "effects": {"prog": -1}},
-    {"id": 79, "question": "Hereditary Monarchy is the better than Elective Monarchy, as the monarch would be trained for his role from birth.", "effects": {"prog": -1}},
+    {"id": 79, "question": "Hereditary Monarchy is better than Elective Monarchy, as the monarch would be trained for his role from birth.", "effects": {"prog": -1}},
     {"id": 80, "question": "Feudalism was a good system.", "effects": {"prog": -1}},
     {"id": 81, "question": "The Power should be set for someone to inherit and they shall be trained since birth to fit that role.", "effects": {"prog": -1}},
     {"id": 82, "question": "To have Succession secured is just as securing the future of the nation.", "effects": {"prog": -1}},
